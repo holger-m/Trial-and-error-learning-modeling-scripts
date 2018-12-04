@@ -6,10 +6,12 @@ Analysis steps: 1. Likelihood estimation, 2. Response generation, 3. Lost probab
 
 If your are using data or code from this repository, please cite Mohr et al., 2018: 
 
-@article {Mohr258459,
-	author = {Mohr, Holger and Zwosta, Katharina and Markovic, Dimitrije and Bitzer, Sebastian and Wolfensteller, Uta and Ruge, Hannes},
-	title = {Deterministic response strategies in trial-and-error learning},
-	year = {2018},
-	doi = {10.1101/258459},
-	journal = {bioRxiv}
+@article{Mohr1006621,
+    author = {Mohr, Holger AND Zwosta, Katharina AND Markovic, Dimitrije AND Bitzer, Sebastian AND Wolfensteller, Uta AND Ruge, Hannes},
+    journal = {PLOS Computational Biology},    
+    title = {Deterministic response strategies in a trial-and-error learning task},
+    year = {2018},
+    month = {11},
+    volume = {14},    
+    doi = {10.1371/journal.pcbi.1006621}
 }
