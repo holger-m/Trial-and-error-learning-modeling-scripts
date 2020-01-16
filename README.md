@@ -4,7 +4,7 @@ Matlab scripts used in Mohr et al., 2018: Deterministic response strategies in a
 
 Analysis steps: 1. Likelihood estimation, 2. Response generation, 3. Lost probabilities, 4. Error types
 
-If your are using data or code from this repository, please cite Mohr et al., 2018: 
+If you are using data or code from this repository, please cite Mohr et al., 2018: 
 
 @article{Mohr1006621,
     author = {Mohr, Holger AND Zwosta, Katharina AND Markovic, Dimitrije AND Bitzer, Sebastian AND Wolfensteller, Uta AND Ruge, Hannes},
